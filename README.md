@@ -20,7 +20,7 @@ $ pkg install git nano nodejs
 $ git clone https://github.com/Haykal20/Haykal.git
 $ cd Haykal && ls
 ```
-**Created OpenAI ApiKey**
+**Create OpenAI ApiKey**
 - Silakan buat apikey [disini](https://beta.openai.com/account/api-keys)
 - Ganti ApiKey OpenAI di file [key.json](https://github.com/Haykal20/Haykal/blob/main/key.json)
 ```bash
