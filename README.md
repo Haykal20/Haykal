@@ -18,24 +18,22 @@ $ termux-storage-setup
 $ pkg update && pkg upgrade
 $ pkg install git nano nodejs 
 $ git clone https://github.com/Haykal20/Haykal.git
-$ cd Haykal
+$ cd Haykal && ls
 ```
 **Change OpenAI ApiKey**
 - Silakan buat apikey [disini](https://beta.openai.com/account/api-keys)
 - Ganti ApiKey OpenAI di file [key.json](https://github.com/Haykal20/Haykal/blob/main/key.json)
 ```bash
-$ cd Haykal && ls
 $ nano key.json
 ```
 **Change No Owner**
 - Ubah nomor owner di file [index.js](https://github.com/Haykal20/Haykal/blob/main/index.js)
 ```bash
-$ cd Haykal && ls
 $ nano index.js
 ```
 **Run**
 ```bash
-$ cd Haykal && node index.js
+$ node index.js
 ```
 **How To Remove Session**
 ```bash
