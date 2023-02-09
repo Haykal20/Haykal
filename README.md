@@ -1,7 +1,7 @@
 # Haykal
 ***WhatsApp OpenAI Create with NodeJS Using Library [Baileys](https://github.com/adiwajshing/Baileys)***
 ## Fitur
-***Ketik /menu untuk melihat fitur OpenAI***
+***Ketik /menu Untuk Melihat Fitur OpenAI***
 
 **ChatGPT:**
 ```bash
@@ -27,7 +27,7 @@ $ cd Haykal && ls
 $ nano key.json
 ```
 **Change No Owner**
-- Ubah nomor owner di file [index.js](https://github.com/Haykal20/Haykal/blob/main/index.js)
+- Ubah Nomor Owner Di File [index.js](https://github.com/Haykal20/Haykal/blob/main/index.js)
 ```bash
 $ nano index.js
 ```
