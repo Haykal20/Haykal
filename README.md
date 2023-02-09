@@ -21,8 +21,8 @@ $ git clone https://github.com/Haykal20/Haykal.git
 $ cd Haykal && ls
 ```
 **Create OpenAI ApiKey**
-- Silakan buat apikey [disini](https://beta.openai.com/account/api-keys)
-- Ganti ApiKey OpenAI di file [key.json](https://github.com/Haykal20/Haykal/blob/main/key.json)
+- Silakan Buat Apikey [disini](https://beta.openai.com/account/api-keys)
+- Isi Apikey OpenAI Di File [key.json](https://github.com/Haykal20/Haykal/blob/main/key.json)
 ```bash
 $ nano key.json
 ```
